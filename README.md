@@ -112,6 +112,23 @@ This approach:
 7. Cache revalidation updates UI instantly
 
 ---
+##Setup Instructions (Run Locally)
+
+
+Clone the Repository
+
+git clone [https://github.com/bnspavankumar2005/Server-Rendered-E-commerce-Product-Management-Dashboard.git](https://github.com/bnspavankumar2005/Server-Rendered-E-commerce-Product-Management-Dashboard.git)
+cd Server-Rendered-E-commerce-Product-Management-Dashboard
+
+npm install
+
+npx prisma generate
+npx prisma db push
+
+npm run dev
+
+Open http://localhost:3000 in your browser.
+
 
 ##  Required Environment Variables
 
