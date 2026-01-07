@@ -123,6 +123,7 @@ cd Server-Rendered-E-commerce-Product-Management-Dashboard
 npm install
 
 npx prisma generate
+
 npx prisma db push
 
 npm run dev
