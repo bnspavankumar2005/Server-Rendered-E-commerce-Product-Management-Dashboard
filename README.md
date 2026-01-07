@@ -19,8 +19,8 @@ This project demonstrates a **server-first architecture** for managing e-commerc
 
 Use the following demo credentials to access admin features:
 
-- **Email:** `admin@demo.com`
-- **Password:** `admin123456`
+- **Email:** `bnspavankumar2005@gmail.com`
+- **Password:** `bnspavan@123`
 - **Login URL:**  
   https://server-rendered-e-commerce-product-xi.vercel.app/sign-in
 
