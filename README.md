@@ -10,7 +10,7 @@ This project demonstrates a **server-first architecture** for managing e-commerc
 - **Live Demo:**  
   https://server-rendered-e-commerce-product-xi.vercel.app
 
-- 💻 **Source Code:**  
+- **Source Code:**  
   https://github.com/bnspavankumar2005/Server-Rendered-E-commerce-Product-Management-Dashboard
 
 ---
@@ -86,17 +86,18 @@ This approach:
 
 ##  Tech Stack
 
-| Category | Technology |
-|--------|------------|
-| Framework | Next.js 16 (App Router) |
-| Language | TypeScript |
-| Styling | Tailwind CSS |
-| Database | PostgreSQL (Neon) |
-| ORM | Prisma |
-| Authentication | Clerk |
-| Image Storage | Cloudinary |
-| Charts | Recharts |
-| Deployment | Vercel |
+| Category | Technology | Purpose |
+|--------|------------|--------|
+| Frontend Framework | **Next.js 16** | App Router, Server Components, Server Actions |
+| Language | **TypeScript** | Static typing and improved DX |
+| Styling | **Tailwind CSS** | Utility-first responsive styling |
+| Database | **PostgreSQL (Neon)** | Serverless relational database |
+| ORM | **Prisma** | Type-safe database access |
+| Authentication | **Clerk** | User authentication and session management |
+| Form Validation | **Zod** | Schema validation and type inference |
+| Charts | **Recharts** | Data visualization |
+| Image Storage | **Cloudinary** | Optimized image hosting |
+| Deployment | **Vercel** | Edge-based global deployment |
 
 ---
 
